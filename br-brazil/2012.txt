@@ -1,0 +1,918 @@
+##########################
+# Brazil Série A 2012
+#
+# Original Copy @ www.rsssf.com/tablesb/braz2012.html
+
+
+# Participants
+# 
+# Atlético C Goianiense (Goiânia-GO)	   Grêmio FBPA (Porto Alegre-RS)
+# C Atlético Mineiro (Belo Horizonte-MG) 	   SC Internacional (Porto Alegre-RS)
+# EC Bahia (Salvador-BA)			   C Náutico Capibaribe (Recife-PE)
+# Botafogo FR (Rio de Janeiro-RJ)		   SE Palmeiras (São Paulo-SP)
+# SC Corinthians Paulista (São Paulo-SP)	   AA Ponte Preta (Campinas-SP)
+# Coritiba FC (Curitiba-PR)		   A Portuguesa de Desportos (São Paulo-SP)
+# Cruzeiro EC (Belo Horizonte-MG)        	   São Paulo FC (SP)
+# Figueirense FC (Florianópolis-SC)	   Santos FC (SP)
+# CR Flamengo (Rio de Janeiro-RJ)		   Sport Club do Recife (PE)
+# Fluminense FC (Rio de Janeiro-RJ)	   CR Vasco da Gama (Rio de Janeiro-RJ)
+# 
+# 
+# (+) - Teams promoted from 2011 Série B (2nd level)
+# Top 4 qualify to 2013 Libertadores.
+# Teams placed 5-11 qualify to 2013 Sudamericana.
+# 
+# 
+# Final Table:
+# 
+#  1.Fluminense 	 38 22 11  5  61-33  77  Champions
+#  2.Atlético/MG 	 38 20 12  6  64-37  72
+#  3.Grêmio 	 38 20 11  7  56-33  71
+#  4.São Paulo 	 38 20  6 12  59-37  66
+#  5.Vasco da Gama 38 16 10 12  45-44  58
+#  6.Corinthians 	 38 15 12 11  51-39  57
+#  7.Botafogo 	 38 15 10 13  60-50  55
+#  8.Santos 	 38 13 14 11  50-44  53
+#  9.Cruzeiro 	 38 15  7 16  47-51  52
+# 10.Internacional 38 13 13 12  44-40  52
+# 11.Flamengo 	 38 12 14 12  39-46  50
+# 12.Náutico 	 38 14  7 17  44-51  49  (+)
+# 13.Coritiba 	 38 14  6 18  53-60  48
+# 14.Ponte Preta 	 38 12 12 14  37-44  48  (+)
+# 15.Bahia 	 38 11 14 13  37-41  47
+# 16.Portuguesa 	 38 10 15 13  39-41  45  (+)
+# -----------------------------------------
+# 17.Sport 	 38 10 11 17  39-56  41  (+)  Relegated
+# 18.Palmeiras 	 38  9  7 22  39-54  34  Relegated
+# 19.Atlético/GO 	 38  7  9 22  37-67  30  Relegated
+# 20.Figueirense 	 38  7  9 22  39-72  30  Relegated
+# 
+# Topscorer: Fred (Fluminense), 19 goals.
+# 	   Luís Fabiano (São Paulo), 17 goals.
+# 	   Bruno Mineiro (Portuguesa) and Barcos (Palmeiras), 14 goals each.
+
+
+Round 1
+[May 19]
+Palmeiras 	1-1  Portuguesa
+ [Luan 37'; Rodriguinho 86']
+Sport		1-1  Flamengo
+ [Marquinhos Gabriel 57'; Vágner Love 73']
+Figueirense 	2-1  Náutico
+ [Fernandes 75', Caio 90'+4'; Araújo 79'p]
+[May 20]
+Botafogo 	4-2  São Paulo
+ [Herrera 49',67',77', Vítor Júnior 72'; Jádson 11', Luís Fabiano 60']
+Ponte Preta 	0-1  Atlético/MG
+ [Escudero 90']
+Corinthians 	0-1  Fluminense
+ [Leandro Euzébio 71']
+Internacional 	2-0  Coritiba
+ [Leandro Damião 8', Dagoberto 37']
+Cruzeiro 	0-0  Atlético/GO							[played in Uberlândia-MG]
+Bahia		0-0  Santos
+Vasco da Gama 	2-1  Grêmio
+ [Felipe Bastos 22', Alecsandro 68'; Fernando 26']
+
+Round 2
+[May 26]
+Flamengo 	3-3  Internacional
+ [Aírton 5', Ronaldinho 16'p, Vágner Love 48'; Gilberto 33', Fabrício 66', Dátolo 69']
+Portuguesa 	0-1  Vasco da Gama
+ [Alecsandro 21']
+Atlético/GO 	1-1  Ponte Preta
+ [Bida 11'; Roger 52']
+Náutico 	0-0  Cruzeiro
+[May 27]
+Coritiba 	2-3  Botafogo
+ [Lincoln 1', Lucas Mendes 50'; Lucas 18',87', Vítor Júnior 26']
+São Paulo 	1-0  Bahia
+ [Luís Fabiano 58']
+Santos		0-0  Sport
+Atlético/MG 	1-0  Corinthians
+ [Danilinho 64']
+Grêmio		1-0  Palmeiras
+ [André Lima 71']
+Fluminense 	2-2  Figueirense
+ [Marcos Júnior 16', Wágner 66'; Caio 57', Pablo 74']
+
+Round 3
+[Jun 6]
+Atlético/GO 	0-1  Grêmio
+ [Miralles 68']
+Sport		2-1  Palmeiras
+ [Marquinhos Paraná 14', Felipe Azevedo 71'; Barcos 37']
+Atlético/MG 	1-1  Bahia
+ [Jô 51'p; Fahel 68']
+Vasco da Gama 	4-2  Náutico
+ [Alecsandro 22', 69', Felipe 35', Juninho Pernambucano 61'; Martínez 66', Araújo 87']
+Coritiba 	2-0  Portuguesa
+ [Ayrton 17', Éverton Costa 43']
+Ponte Preta 	2-2  Flamengo
+ [Renê Junior 14', João Paulo 51'; Renato Abreu 28', Vágner Love 90'+3']
+Internacional 	1-0  São Paulo
+ [D'Alessandro 21']
+Santos		1-1  Fluminense
+ [Rentería 4'; Carlinhos 25'p]
+[Jun 7]
+Corinthians 	1-1  Figueirense
+ [Danilo 37'; Caio 78']
+Botafogo 	2-3  Cruzeiro
+ [Amaral 20'og, Herrera 69'; Anselmo Ramón 73', Éverton 75', Wellington Paulista 79'p]
+
+Round 4
+[Jun 9]
+Flamengo 	3-1  Coritiba
+ [Vágner Love 6', Luiz Antônio 12', Hernane 90'; Emerson 23']
+Palmeiras 	0-1  Atlético/MG
+ [Jô 48']
+[Jun 10]
+Portuguesa 	2-0  Atlético/GO
+ [Ricardo Jesus 47', Moisés 63']
+Fluminense 	0-0  Internacional
+Grêmio		2-0  Corinthians
+ [Marco Antônio 21', André Lima 28']
+São Paulo 	1-0  Santos
+ [Paulo Miranda 7']
+Bahia		1-2  Vasco da Gama
+ [Júnior 90+4'; Juninho Pernambucano 7', Diego Souza 31']
+Cruzeiro 	1-0  Sport								[played in Varginha-MG]
+ [Wellington Paulista 68'p]
+Figueirense 	0-0  Ponte Preta
+Náutico 	3-2  Botafogo
+ [Araújo 16', Lúcio 32', Derley 82'; Márcio Azevedo 48', Cesinha 59'og]
+
+Round 5
+[Jun 16]
+Internacional 	1-2  Botafogo
+ [Dagoberto 30'; Andrezinho 57', Fellype Gabriel 73']
+Fluminense 	4-1  Portuguesa
+ [Wellington Nem 41', Anderson 52', Fred 78', Lanzini 87'; Ricardo Jesus 62']
+Cruzeiro 	1-0  Figueirense
+ [Wellington Paulista 65']
+[Jun 17]
+São Paulo 	1-0  Atlético/MG
+ [Luís Fabiano 41']
+Palmeiras 	1-1  Vasco da Gama							[played in Barueri-SP]
+ [Mazinho 55'; Juninho Pernambucano 82']
+Bahia		2-1  Sport
+ [Elias 14', Fahel 85'; Bruno Aguiar 69']
+Ponte Preta 	1-0  Corinthians
+ [André Luís 41']
+Náutico 	1-0  Grêmio
+ [Ronaldo Alves 90'+1']
+Coritiba 	3-0  Atlético/GO
+ [Pereira 24', Marcel 71', Tcheco 73']
+Flamengo 	1-0  Santos
+ [Bottinelli 87'p]
+
+Round 6
+[Jun 23]
+Portuguesa 	1-0  São Paulo
+ [Ivan 56']
+Atlético/MG 	5-1  Náutico
+ [Bernard 2', Ronaldinho Gaúcho 35'p, Danilinho 36',61', Escudero 90'+2'; Araújo 12']
+Vasco da Gama 	1-3  Cruzeiro
+ [Rodolfo 65'; Montillo 40', Wellington Paulista 63', Anselmo Ramón 80']
+[Jun 24]
+Figueirense 	1-1  Bahia
+ [Júlio César 51'; Vânder 78']
+Grêmio		2-0  Flamengo
+ [Marcelo Moreno 32', Werley 48']
+Corinthians 	2-1  Palmeiras
+ [Romarinho 33',55'; Mazinho 3']
+Botafogo 	1-2  Ponte Preta
+ [Andrezinho 43'p; Nikão 15', Ricardinho 53']
+Sport		0-2  Internacional
+ [Bruno Aguiar 13'og, Leandro Damião 38']
+Atlético/GO 	1-4  Fluminense
+ [Ernandes 12'; Samuel Rosa 18', Gum 25', Gilson 51'og, Deco 90'+3'p]
+Santos		2-2  Coritiba
+ [Edu Dracena 31', Neymar 70'; Rafinha 48', Lincoln 74'p]
+
+Round 7
+[Jun 30]
+Cruzeiro 	2-3  São Paulo
+ [Rafael Donato 13',53'; Luís Fabiano 11', Lucas 15', Jádson 48']
+Náutico 	0-2  Fluminense
+ [Samuel Rosa 30',71']
+Vasco da Gama 	3-2  Ponte Preta
+ [Alecsandro 20', Éder Luis 48', Diego Souza 76'p; Roger 16',26']
+[Jul 1]
+Portuguesa 	0-0  Santos
+Coritiba 	2-3  Sport
+ [Anderson Aquino 12', Tcheco 24'; Henrique 36', Marquinhos Gabriel 75', Felipe Azevedo 86']
+Bahia		1-1  Internacional
+ [Gabriel 44'; Índio 62']
+Palmeiras 	3-1  Figueirense							[played in Barueri-SP]
+ [Román 37', Barcos 84', Maikon Leite 86'; Júlio Cesar 30']
+Flamengo 	3-2  Atlético/GO
+ [Renato Abreu 34',60', Adryan 56'; Felipe 27',79']
+Grêmio		0-1  Atlético/MG
+ [Jô 26']
+[Jul 11]
+Corinthians 	1-3  Botafogo
+ [Chicão 89'p; Paulo André 27'og, Élkeson 56',68']
+
+Round 8
+[Jul 7]
+Botafogo 	3-0  Bahia
+ [Cidinho 6',44', Élkeson 47']
+Internacional 	2-1  Cruzeiro
+ [Oscar 7', Leandro Damião 36'; Léo 64']
+Atlético/GO 	0-1  Náutico
+ [Araújo 22']
+[Jul 8]
+Fluminense 	1-0  Flamengo
+ [Fred 10']
+São Paulo 	3-1  Coritiba
+ [Jádson 14', Maicon 40', Osvaldo 79'; Robinho 70'p]
+Santos		4-2  Grêmio
+ [Edu Dracena 27', Felipe Anderson 38',69', Neymar 62'; Vilson 77', Marquinhos 90'+2']
+Figueirense 	1-1  Vasco da Gama
+ [Ronny 73'; Diego Souza 21']
+Sport		1-1  Corinthians
+ [Marquinhos Gabriel 89'; Liédson 74']
+Ponte Preta 	1-0  Palmeiras
+ [Ricardinho 15']
+Atlético/MG 	2-0  Portuguesa
+ [Marcos Rocha 23', Leonardo Silva 51']
+
+Round 9
+[Jul 14]
+Figueirense 	3-4  Atlético/MG
+ [Anderson Conceição 37', Júlio Cesar 45'+2', Ronny 59'; 
+  Ronaldinho Gaúcho 17'p, Leonardo Silva 64', Bernard 68', Guilherme 73']
+Corinthians 	2-1  Náutico
+ [Danilo 22',49'; Elicarlos 21']
+Ponte Preta 	4-1  Coritiba
+ [Roger 36',52',90'+1', Ricardinho 48'; Pereira 39']
+[Jul 15]
+Botafogo 	1-1  Fluminense
+ [Andrezinho 66'; Fred 51']
+Bahia		1-2  Flamengo
+ [Kléberson 37'; Hernane 30', Renato Abreu 71'p]
+Cruzeiro 	1-3  Grêmio
+ [Wellington Paulista 90'+3'p; Marcelo Moreno 25',64', Kléber 28']
+Internacional 	0-0  Santos
+Sport		2-1  Portuguesa
+ [Henrique 15', Gilberto 68'; Moisés 71']
+Vasco da Gama 	1-0  Atlético/GO
+ [Alecsandro 13']
+Palmeiras 	1-1  São Paulo								[played in Barueri-SP]
+ [Mazinho 81'; Luís Fabiano 12']
+
+Round 10
+[Jul 18]
+Grêmio		3-1  Sport
+ [Marcelo Moreno 64', Leandro 72',79'; Felipe Azevedo 38']
+Santos		0-0  Botafogo
+Náutico 	3-0  Ponte Preta
+ [Kieza 35',88', Souza 60']
+Portuguesa 	0-2  Cruzeiro
+ [Wellington Paulista 77'p, Diego Renan 83']
+Atlético/MG 	3-1  Internacional
+ [Guilherme 45', Leonardo Silva 60', Escudero 90'+1'; Fred 64']
+São Paulo 	0-1  Vasco da Gama
+ [Fágner 48']
+Flamengo 	0-3  Corinthians
+ [Douglas 27',39', Danilo 54']
+[Jul 19]
+Coritiba 	1-1  Palmeiras
+ [Anderson Aquino 67'; Patrik 5']
+Atlético/GO 	3-2  Figueirense
+ [Márcio 38'p, Felipe 58', Joílson 82'; Caio 23'p,62'p]
+Fluminense 	4-0  Bahia
+ [Fred 48'p,74'p, Thiago Neves 65', Wallace 87']
+
+Round 11
+[Jul 21]
+Vasco da Gama 	2-0  Santos
+ [Douglas 11', Alecsandro 48']
+Sport		1-4  Atlético/MG
+ [Gilberto 26'; Danilinho 33', Ronaldinho Gaúcho 59', Jô 64', Bernard 72']
+Corinthians 	1-1  Portuguesa
+ [Douglas 49'; Héverton 29']
+[Jul 22]
+Internacional 	4-1  Atlético/GO
+ [Elton 20', Dagoberto 46', Jajá 58', Fred 75'; Reniê 27']
+Figueirense 	0-2  São Paulo
+ [Ademilson 49", Willian José 90'+3']
+Palmeiras 	3-0  Náutico								[played in Barueri-SP]
+ [Obina 18', Mazinho 30', Márcio Araújo 50']
+Cruzeiro 	1-0  Flamengo
+ [Borges 43']
+Ponte Preta 	1-2  Fluminense
+ [Ferrón 83'; Thiago Neves 44', Fred 89'p]
+Botafogo 	0-1  Grêmio
+ [Marcelo Moreno 48']
+Bahia		2-2  Coritiba
+ [Souza 9', Mancini 46'; Éverton Costa 65', Emerson 69']
+
+Round 12
+[Jul 25]
+Figueirense 	0-1  Internacional
+ [Dagoberto 24']
+Ponte Preta 	1-1  Sport
+ [André Luís 6'; Marquinhos Gabriel 21']
+Náutico 	3-4  Coritiba
+ [Souza 13', Kieza 17', Rico 85'; Robinho 15', Leonardo 46',55'p, Pereira 77']
+Vasco da Gama 	1-0  Botafogo
+ [Alecsandro 86']
+Atlético/GO 	4-3  São Paulo
+ [Marino 16', Márcio 25'p, Patric 30', Wesley 43'; Ademílson 41', Jádson 49', Rafael Tolói 62']
+Grêmio		1-0  Fluminense
+ [Kléber 68']
+Corinthians 	2-0  Cruzeiro
+ [Chicão 22', Paulinho 90'+3']
+[Jul 26]
+Atlético/MG 	2-0  Santos
+ [Danilinho 41', Réver 65']
+Palmeiras 	0-2  Bahia								[played in Barueri-SP]
+ [Souza 69'p,81']
+Flamengo 	0-0  Portuguesa
+
+Round 13
+[Jul 28]
+Coritiba 	2-1  Grêmio
+ [Ayrton 60', Leonardo 89'; André Lima 63']
+Internacional 	0-0  Vasco da Gama
+Botafogo 	1-0  Figueirense
+ [Andrezinho 59']
+[Jul 29]
+Sport		0-0  Atlético/GO
+Bahia		0-0  Corinthians
+São Paulo 	4-1  Flamengo
+ [Maicon 43', Luís Fabiano 45'+1',59', Jádson 90'+2'; Ramón 66']
+Fluminense 	0-0  Atlético/MG
+Cruzeiro 	2-1  Palmeiras
+ [Borges 36'p,57'; Barcos 68']
+Santos		2-1  Ponte Preta
+ [Bruno Peres 37', Miralles 86'; Roger 82']
+Portuguesa 	3-1  Náutico
+ [Moisés 30', Ananias 57', Diego Viana 87'; Kieza 8']
+
+Round 14
+[Aug 4]
+Atlético/GO 	1-2  Botafogo
+ [Márcio 27'p; Seedorf 64', Fellype Gabriel 74']
+Palmeiras 	0-1  Internacional							[played in Barueri-SP]
+ [Ygor 34']
+Portuguesa 	2-0  Figueirense
+ [Bruno Mineiro 54', Ananias 86']
+[Aug 5]
+Grêmio		3-1  Bahia
+ [Elano 31'p, Souza 87', Marcelo Moreno 90'+2'; Fahel 63']
+Coritiba 	0-2  Fluminense
+ [Pereira 82'og, Fred 86']
+São Paulo 	1-0  Sport
+ [Ademilson 78']
+Vasco da Gama 	0-0  Corinthians
+Náutico 	3-0  Santos
+ [Patric 58', Kim 80', Kieza 90'+1']
+Cruzeiro 	1-2  Ponte Preta
+ [Borges 45'+2'; Cicinho 17', Marcinho 47']
+[Sep 26]
+Flamengo 	2-1  Atlético/MG
+ [Vágner Love 21', Liédson 55'; Jô 49']
+
+Round 15
+[Aug 8]
+Internacional 	0-0  Náutico
+Sport		0-2  Vasco da Gama
+ [Juninho Pernambucano 67', Carlos Tenório 84']
+Corinthians 	1-1  Atlético/GO
+ [Paulinho 74'; Ricardo Bueno 56']
+Bahia		0-0  Portuguesa
+Santos		4-2  Cruzeiro
+ [Felipe Anderson 19', Victor Andrade 32', Durval 59', Bill 78'; Borges 28', Ceará 50']
+Figueirense 	0-2  Flamengo
+ [Vágner Love 62',86']
+Botafogo 	1-2  Palmeiras
+ [Andrezinho 57'; Barcos 14',72']
+[Aug 9]
+Fluminense 	2-1  São Paulo
+ [Leandro Euzébio 35', Fred 49'; Cícero 43']
+Ponte Preta 	0-0  Grêmio
+Atlético/MG 	1-0  Coritiba
+ [Réver 47']
+
+Round 16
+[Aug 11]
+Sport		0-1  Figueirense
+ [Aloísio 55']
+Bahia		0-1  Cruzeiro
+ [Montillo 8']
+Santos		2-2  Atlético/GO							[played in São Paulo-SP]
+ [Patito Rodríguez 56', Miralles 82'p; Patric 4', Wesley 36']
+Flamengo 	2-0  Náutico
+ [Vágner Love 14',43']
+[Aug 12]
+Internacional 	2-1  Ponte Preta
+ [Jajá 59', Mike 90'+1'; Cicinho 40']
+Atlético/MG 	1-0  Vasco da Gama
+ [Jô 69']
+Coritiba 	1-2  Corinthians
+ [Éverton Ribeiro 45'+1'; Paulinho 65', Romarinho 90']
+São Paulo 	1-2  Grêmio
+ [Cícero 40'; Werley 66', André Lima 90'+1']
+Portuguesa 	1-1  Botafogo
+ [Bruno Mineiro 38'; Élkeson 18']
+Fluminense 	1-0  Palmeiras
+ [Jean 84']
+
+Round 17
+[Aug 15]
+Grêmio		1-2  Portuguesa
+ [Kléber 87'; Ananias 26', Bruno Mineiro 83']
+Cruzeiro 	1-1  Fluminense
+ [Wellington Paulista 3'; Fred 43']
+Ponte Preta 	0-2  Bahia
+ [Gabriel 10', Souza 89']
+Atlético/GO 	1-1  Atlético/MG
+ [Ernandes 9'; Bernard 27']
+Palmeiras 	1-0  Flamengo								[played in Barueri-SP]
+ [Barcos 32']
+Botafogo 	2-0  Sport
+ [Élkeson 66', Seedorf 76']
+Náutico 	3-0  São Paulo
+ [Kieza 12'p, Araújo 28', Rogério Ceni 61'og]
+[Aug 16]
+Corinthians 	1-0  Internacional
+ [Paulo André 68']
+Figueirense 	1-3  Santos
+ [Fernandes 47'; Neymar 50', Bruno Peres 77', Ganso 84']
+Vasco da Gama 	2-2  Coritiba
+ [Fellipe 48', Wendel 87'; Júnior Urso 21', Éverton Ribeiro 89']
+
+Round 18
+[Aug 18]
+Fluminense 	1-0  Sport								[played in Volta Redonda-RJ]
+ [Samuel Rosa 84']
+Náutico 	1-0  Bahia
+ [Martínez 87']
+São Paulo 	3-0  Ponte Preta
+ [Rogério Ceni 21'p, Lucas 26', Osvaldo 86']
+[Aug 18]
+Grêmio		4-0  Figueirense
+ [Elano 35', Leandro 40',49', André Lima 89']
+Atlético/MG 	3-2  Botafogo
+ [Escudero 41', Jô 53', Neto Berola 88'; Andrezinho 33',79']
+Santos		3-2  Corinthians
+ [André 36',48', Bruno Rodrigo 83'; Danilo 28', Martínez 80']
+Coritiba 	4-0  Cruzeiro
+ [Lucas Mendes 19', Ayrton 37', Roberto 48', Ânderson Aquino 77']
+Atlético/GO 	2-1  Palmeiras
+ [Eron 18', Rayllan 79']
+Portuguesa 	1-1  Internacional
+ [Marcelo Cordeiro 81'p; Juan 74']
+Flamengo 	1-0  Vasco da Gama
+ [Vágner Love 38']
+
+Round 19
+[Aug 25]
+Palmeiras 	1-2  Santos
+ [Corrêa 40'; Neymar 40',62']
+Vasco da Gama 	1-2  Fluminense
+ [Gum 73'og; Thiago Neves 71',86']
+Ponte Preta 	2-1  Portuguesa
+ [Giancarlo 5',83'; Bruno Mineiro 23']
+[Aug 26]
+Figueirense 	3-1  Coritiba
+ [Aloísio 21',26',52'; Ânderson Aquino 32']
+Corinthians 	1-2  São Paulo
+ [Émerson 5'; Luís Fabiano 23',61']
+Botafogo 	0-0  Flamengo
+Internacional 	0-1  Grêmio
+ [Elano 7']
+Bahia		1-1  Atlético/GO
+ [Fabinho 8'; Diogo Campos 82']
+Sport		0-0  Náutico
+Cruzeiro 	2-2  Atlético/MG
+ [Wallyson 16', Mateus 90'+11'; Leonardo Silva 45'+3', Ronaldinho Gaúcho 89']
+
+Round 20
+[Aug 29]
+Santos		1-3  Bahia
+ [André 14'; Souza 59', Neto 62', Gabriel 72']
+Coritiba 	1-0  Internacional
+ [Rafinha 56']
+Portuguesa 	3-0  Palmeiras
+ [Bruno Mineiro 49',70', Moisés 84']
+Náutico 	3-2  Figueirense
+ [Elicarlos 58',64', Souza 75'; Caio 10', Aloísio 19']
+Atlético/MG 	2-2  Ponte Preta
+ [Danilinho 15', Guilherme 49'; Cicinho 42',82']
+Atlético/GO 	0-2  Cruzeiro
+ [Borges 26', Wellington Paulista 70'p]
+Grêmio		2-0  Vasco da Gama
+ [Marcelo Moreno 40', Kléber 58']
+Fluminense 	1-1  Corinthians
+ [Fred 83'; Émerson 36']
+[Aug 30]
+São Paulo 	4-0  Botafogo
+ [Luís Fabiano 5', Osvaldo 58', Lucas 60', Cícero 88']
+Flamengo 	1-1  Sport								[played in Volta Redonda-RJ]
+ [Ibson 13'; Felipe Azevedo 19']
+
+Round 21
+[Sep 1]
+Figueirense 	2-2  Fluminense
+ [Aloísio 68', João Paulo 86'; Digão 46', Rafael Sóbis 52']
+Palmeiras 	0-0  Grêmio
+Vasco da Gama 	2-0  Portuguesa
+ [Alecsandro 36', Carlos Tenório 48']
+[Sep 2]
+Bahia		1-0  São Paulo
+ [Gabriel 71']
+Corinthians 	1-0  Atlético/MG
+ [Paulo André 63']
+Sport		2-1  Santos
+ [Hugo 3', Felipe Azevedo 36'; André 51']
+Internacional 	4-1  Flamengo
+ [Forlán 28',66', Josimar 39', Leandro Damião 75'; Vágner Love 14']
+Ponte Preta 	3-1  Atlético/GO
+ [Giancarlo 57', Ferrón 67', Cléber 84'; Diego Giarretta 8']
+Botafogo 	2-0  Coritiba
+ [Élkeson 14', Lodeiro 28']
+Cruzeiro 	3-0  Náutico
+ [Borges 74', Élber 86', Wellington Paulista 90']
+
+Round 22
+[Sep 5]
+Náutico 	1-1  Vasco da Gama
+ [Kieza 41'; Felipe Bastos 52']
+Flamengo 	0-1  Ponte Preta							[played in Volta Redonda-RJ]
+ [Uendel 20']
+Figueirense 	1-0  Corinthians
+ [Caio 46']
+Portuguesa 	3-0  Coritiba
+ [Bruno Mineiro 11',46', Ananias 54']
+Cruzeiro 	1-3  Botafogo
+ [Tinga 18'; Seedorf 34',35', Jádson 55']
+São Paulo 	1-1  Internacional
+ [Maicon 18'; Dagoberto 7']
+Grêmio		2-1  Atlético/GO
+ [Elano 9',18'; Marino 24']
+Bahia		0-0  Atlético/MG
+[Sep 6]
+Fluminense 	3-1  Santos
+ [Wellington Nem 20',43', Samuel Rosa 77'; André 28']
+Palmeiras 	3-1  Sport
+ [Corrêa 52', Tiago Real 63', Obina 67'; Rivaldo 61']
+
+Round 23
+[Sep 8]
+Coritiba 	3-0  Flamengo
+ [Lincoln 16', Rafinha 56', Éverton Ribeiro 71']
+Ponte Preta 	2-2  Figueirense
+ [Giancarlo 8', Marcinho 78'; Aloísio 16', Caio 45']
+Corinthians 	3-1  Grêmio
+ [Ralf 5', Guilherme 10', Geovani 90'; Leandro 58']
+[Sep 9]
+Santos		0-0  São Paulo
+Internacional 	0-1  Fluminense
+ [Fred 28']
+Botafogo 	3-1  Náutico
+ [Elkeson 1',33', Andrezinho 90'+1'; Araújo 54'p]
+Atlético/GO 	1-1  Portuguesa
+ [Marcos 37'; Valdomiro 52'] 
+Sport		2-1  Cruzeiro
+ [Rithelly 30', Gilberto 61'; Wallyson 8']
+Atlético/MG 	3-0  Palmeiras
+ [Leonardo Silva 52', Bernard 83',90'+2']
+Vasco da Gama 	0-4  Bahia
+ [Souza 39',69', Jones 48',57']
+
+Round 24
+[Sep 12]
+Corinthians 	1-1  Ponte Preta
+ [Émerson 89'; Tiago Alves 68']
+Figueirense 	2-0  Cruzeiro
+ [João Paulo 34', Aloísio 85']
+Portuguesa 	0-2  Fluminense
+ [Jean 73', Wellington Nem 75']
+Atlético/GO 	1-2  Coritiba
+ [Patric 10'; Robinho 1', Deivid 58']
+Sport		1-1  Bahia
+ [Hugo 4'; Hélder 82']
+Atlético/MG 	1-0  São Paulo
+ [Leonardo Silva 62']
+Santos		2-0  Flamengo
+ [Victor Andrade 85', Neymar 87']
+Vasco da Gama 	3-1  Palmeiras
+ [Carlos Tenório 29', Nílton 51', Juninho Pernambucano 73'; Luan 23']
+[Sep 13]
+Botafogo 	1-1  Internacional
+ [Cidinho 76'; Leandro Damião 67']
+Grêmio		2-0  Náutico
+ [Marco Antônio 60', Kléber 90'+2']
+
+Round 25
+[Sep 15]
+Fluminense 	1-2  Atlético/GO							[played in Volta Redonda-RJ]
+ [Michael 63'; Diego Giaretta 17', Reniê 41']
+São Paulo 	3-1  Portuguesa
+ [Osvaldo 5', Bruno Cortez 57', Luís Fabiano 77'; Bruno Mineiro 36']
+[Sep 16]
+Coritiba 	1-2  Santos
+ [Deivid 10'; Neymar 70',82']
+Palmeiras 	0-2  Corinthians
+ [Romarinho 21', Paulinho 53']
+Cruzeiro 	1-1  Vasco da Gama							[played in Varginha-MG]
+ [Renato Silva 3'og; Nílton 27']
+Bahia		2-1  Figueirense
+ [Hélder 72', Cláudio Pitbull 90'; Júlio César 33']
+Náutico 	1-0  Atlético/MG
+ [Souza 48']
+Flamengo 	1-1  Grêmio
+ [Adryan 61'; Marcelo Moreno 17']
+Internacional 	2-2  Sport
+ [Cassiano 62', Leandro Damião 75'; Rithelly 35', Gilsinho 41']
+Ponte Preta 	0-0  Botafogo
+
+Round 26
+[Sep 22]
+Figueirense 	1-3  Palmeiras
+ [Aloísio 65'; Thiago Heleno 7', Henrique 9', Marcos Assunção 67']
+Fluminense 	2-1  Náutico								[played in Volta Redonda-RJ]
+ [Leandro Euzébio 38', Fred 45'; Kim 81']
+Santos		1-3  Portuguesa								[played in São Paulo-SP]
+ [André 74'; Bruno Mineiro 37',62', Léo Silva 42']
+[Sep 23]
+São Paulo 	1-0  Cruzeiro
+ [Osvaldo 67']
+Ponte Preta 	0-0  Vasco da Gama
+Atlético/GO 	1-2  Flamengo
+ [Joílson 10'; Cléber Santana 35', Liédson 65']
+Botafogo 	2-2  Corinthians
+ [Seedorf 5',74'; Guerrero 8', Douglas 11'p]
+Atlético/MG 	0-0  Grêmio
+Internacional 	3-1  Bahia
+ [Fred 12', Forlán 36', Leandro Damião 51'; Kléberson 90']
+Sport		1-0  Coritiba
+ [Gilberto 90'+2'p]
+
+Round 27
+[Sep 29]
+Cruzeiro 	0-0  Internacional							[played in Varginha-MG]
+Náutico 	2-0  Atlético/GO
+ [Kieza 18'p,40']
+Portuguesa 	1-1  Atlético/MG
+ [Léo Silva 50'; Bernard 65']
+Vasco da Gama 	3-1  Figueirense
+ [Luan 33', Carlos Tenório 50', Juninho Pernambucano 79'; Caio 12']
+Palmeiras 	3-0  Ponte Preta
+ [Barcos 11',14', Marcos Assunção 58']
+[Sep 30]
+Flamengo 	0-1  Fluminense
+ [Fred 17']
+Bahia		2-0  Botafogo
+ [Fahel 18', Hélder 85']
+Coritiba 	1-1  São Paulo
+ [Éverton Ribeiro 59'p; Osvaldo 83']
+Corinthians 	3-0  Sport
+ [Paulinho 54',	Romarinho 70',84']
+Grêmio		1-1  Santos
+ [Werley 32'; Bruno Rodrigo 57']
+
+Round 28
+[Oct 4]
+Flamengo 	0-0  Bahia
+Coritiba 	1-0  Ponte Preta
+ [Deivid 42']
+Portuguesa 	5-1  Sport
+ [Bruno Mineiro 24',47',66', Moisés 81', Rodriguinho 89'; Hugo 15']
+[Oct 6]
+São Paulo 	3-0  Palmeiras
+ [Luís Fabiano 34',69', Denílson 42']
+Santos		1-1  Internacional
+ [Bernardo 15'; Cassiano 51']
+Náutico 	2-1  Corinthians
+ [Kieza 30', Ralf 84'og; Guerrero 44']
+Atlético/GO 	0-1  Vasco da Gama
+ [Juninho Pernambucano 86']
+Fluminense 	1-0  Botafogo
+ [Fred 72']
+Grêmio		2-1  Cruzeiro
+ [Marcelo Moreno 66', Marquinhos 77'; Anselmo Ramón 27']
+Atlético/MG 	6-0  Figueirense
+ [Ronaldinho Gaúcho 11',31',62'p, Réver 23', Bernard 68', Carlos César 82']
+
+Round 29
+[Oct 10]
+Bahia		0-2  Fluminense
+ [Bruno Vieira 58', Rafael Sóbis 74']
+Botafogo 	0-2  Santos
+ [André 53', Miralles 56']
+Cruzeiro 	2-0  Portuguesa								[played in Varginha-MG]
+ [Montillo 37'p, Souza 90'+3']
+Figueirense 	3-1  Atlético/GO
+ [Aloísio 11', Ronny 33',82'; Diego Giaretta 12']
+Ponte Preta 	2-1  Náutico
+ [Rildo 74', Marcinho 77'p; Douglas Santos 4']
+Corinthians 	3-2  Flamengo
+ [Edenílson 60', Paulo André 76', Émerson 89'; Renato Santos 29', Liédson 90'+2']
+Internacional 	3-0  Atlético/MG
+ [Jackson 65', Fred 79', Cassiano 86']
+Vasco da Gama 	0-2  São Paulo
+ [Luís Fabiano 20', Osvaldo 48']
+[Oct 11]
+Palmeiras 	0-1  Coritiba								[played in Araraquara-SP]
+ [Deivid 90'+2'p]
+Sport		1-3  Grêmio
+ [Hugo 80'p; Anderson Pico 43', Leandro 51', Marquinhos 56']
+
+Round 30
+[Oct 13]
+Atlético/GO 	3-1  Internacional
+ [Adriano 55', Ricardo Bueno 69', Luciano 73'; Fred 15']
+Flamengo 	1-1  Cruzeiro
+ [Liédson 10'; Éverton 18']
+Portuguesa 	1-1  Corinthians
+ [Marcelo Cordeiro 12'; Douglas 16']
+[Oct 14]
+Coritiba 	2-1  Bahia
+ [Luccas Claro 11', Deivid 72'; Neto 15']
+Santos		2-0  Vasco da Gama
+ [Miralles 8',47']
+São Paulo 	2-0  Figueirense
+ [Luís Fabiano 13', Douglas 19']
+Náutico 	1-0  Palmeiras
+ [Kieza 13']
+Atlético/MG 	2-1  Sport
+ [Leonardo Silva 77',90'+4'; Hugo 16']
+Grêmio		1-1  Botafogo
+ [Léo Gago 50'; Bruno Mendes 90']
+Fluminense 	2-1  Ponte Preta
+ [Fred 79'p, Gum 88'; Luan 1']
+
+Round 31
+[Oct 17]
+Fluminense 	2-2  Grêmio
+ [Digão 59', Rafael Sóbis 62'; Elano 54', Zé Roberto 85']
+Bahia		0-1  Palmeiras
+ [Betinho 19']
+Internacional 	2-3  Figueirense
+ [Dagoberto 41', Rafael Moura 69'; Aloísio 45',90', Ronny 87']
+Coritiba 	2-1  Náutico
+ [Alemão 2'og, Deivid 39'; Kieza 88']
+Santos		2-2  Atlético/MG
+ [Miralles 1', Neymar 11'; Bernard 62', Jô 72']
+Portuguesa 	0-0  Flamengo
+Cruzeiro 	2-0  Corinthians							[played in Varginha-MG]
+ [Anselmo Ramón 20', Martinuccio 60']
+[Oct 18]
+Botafogo 	3-2  Vasco da Gama
+ [Élkeson 29', Bruno Mendes 74',90'+2'; Carlos Alberto 24',38']
+São Paulo 	2-0  Atlético/GO
+ [Paulo Miranda 28', Osvaldo 38']
+Sport		3-1  Ponte Preta
+ [Rithelly 32', Toby 38', Gilsinho 80'; Giancarlo 45'+1']
+
+Round 32
+[Oct 20]
+Palmeiras 	2-0  Cruzeiro								[played in Araraquara-SP]
+ [Barcos 73',76']
+Corinthians 	1-1  Bahia
+ [Douglas 11'p; Fahel 32']
+Grêmio		0-0  Coritiba
+[Oct 21]
+Atlético/GO 	0-1  Sport
+ [Hugo 48']
+Náutico 	0-0  Portuguesa
+Flamengo 	1-0  São Paulo
+ [Marcos Gonzáles 72']
+Atlético/MG 	3-2  Fluminense
+ [Jô 68',81', Leonardo Silva 90'+2'; Wellington Nem 55', Fred 85']
+Ponte Preta 	1-0  Santos
+ [Luan 12']
+[Oct 24]
+Figueirense 	0-2  Botafogo
+ [Bruno Mendes 14', Seedorf 32']
+Vasco da Gama 	1-2  Internacional
+ [Jonas 22'; Forlán 33',45']
+
+Round 33
+[Oct 25]
+Fluminense 	2-1  Coritiba
+ [Wellington Nem 15', Thiago Neves 70'; Everton Ribeiro 80']
+Ponte Preta 	1-0  Cruzeiro
+ [Roger 33']
+Santos		0-0  Náutico
+[Oct 27]
+Corinthians 	1-0  Vasco da Gama
+ [Guerrero 58']
+Internacional 	2-1  Palmeiras
+ [Fred 34', Rafael Moura 54'; Luan 21']
+Botafogo 	4-0  Atlético/GO
+ [Seedorf 20', Dória 45'+3', Gabriel 48', Bruno Mendes 82']
+Figueirense 	0-0  Portuguesa
+Bahia		1-1  Grêmio
+ [Gabriel 40'; Kléber 43']
+Sport		2-4  São Paulo
+ [Gilberto 13', Hugo 79'p; Lucas 17',29',58', Rivaldo 33'og]
+[Oct 31]
+Atlético/MG 	1-1  Flamengo
+ [Leonardo Silva 57'; Renato Abreu 27']
+
+Round 34
+[Nov 3]
+Grêmio		1-0  Ponte Preta
+ [André Lima 90']
+Cruzeiro 	0-4  Santos
+ [Neymar 11',35',81', Felipe Anderson 53']
+Flamengo 	1-0  Figueirense							[played in Volta Redonda-RJ]
+ [Hernane 71']
+[Nov 4]
+Atlético/GO 	0-2  Corinthians							[played in Brasília-DF]
+ [Martínez 53', Guilherme 90'+1']
+São Paulo 	1-1  Fluminense
+ [Luís Fabiano 49'; Fred 67']
+Vasco da Gama 	0-3  Sport
+ [Felipe Azevedo 39', Hugo 52', Henrique 86']
+Palmeiras 	2-2  Botafogo								[played in Araraquara-SP]
+ [Barcos 28',90'; Lodeiro 20', Élkeson 63']
+Portuguesa 	0-1  Bahia
+ [Souza 77']
+Náutico 	3-0  Internacional
+ [Souza 22',32', Kieza 61']
+Coritiba 	1-0  Atlético/MG
+ [Deivid 8'p]
+
+Round 35
+[Nov 10]
+Atlético/GO 	2-1  Santos								[played in Brasília-DF]
+ [Diogo Campos 85', Márcio 88'p; Bruno Rodrigo 45']
+Botafogo 	3-0  Portuguesa
+ [Bruno Mendes 11', Fellype Gabriel 66', Vitor Júnior 89']
+Corinthians 	5-1  Coritiba
+ [Chicão 5'p, Fábio Santos 18', Paulinho 19',68', Guerrero 63'; Deivid 31']
+[Nov 11]
+Palmeiras 	2-3  Fluminense
+ [Barcos 61', Patrik 64'; Fred 45',87' Maurício Ramos 53'og]
+Vasco da Gama 	1-1  Atlético/MG
+ [Alecsandro 55'; Ronaldinho Gaúcho 26'p]
+Grêmio		2-1  São Paulo
+ [André Lima 60', Marcelo Moreno 84'; Rogério Ceni 43'p]
+Náutico 	0-1  Flamengo
+ [Renato Abreu 81'p]
+Figueirense 	1-1  Sport
+ [Júlio Cesar 64'; Gilberto 23']
+Ponte Preta 	1-0  Internacional
+ [Roger 25']
+Cruzeiro 	3-1  Bahia
+ [Martinuccio 53',67', Willian Magrão 90'; Fahel 27']
+
+Round 36
+[Nov 17]
+Santos		2-0  Figueirense
+ [Patito Rodríguez 42', Felipe Anderson 63']
+Coritiba 	1-2  Vasco da Gama
+ [Lincoln 9'; Romário 22', Nílton 59']
+[Nov 18]
+Fluminense 	0-2  Cruzeiro
+ [Montillo 23'p, Élber 47']
+Atlético/MG 	2-2  Atlético/GO
+ [Réver 19', Ronaldinho Gaúcho 90'; Rayllan 3', Patric 16']
+Flamengo 	1-1  Palmeiras								[played in Volta Redonda-RJ]
+ [Vágner Love 88'; Vinícius 62']
+Bahia		1-0  Ponte Preta
+ [Neto 80']
+São Paulo 	2-1  Náutico
+ [Luís Fabiano 54', Rogério Ceni 70'p; Souza 48']
+Portuguesa 	2-2  Grêmio
+ [Moisés 52'p, Léo Silva 60'; André Lima 73', Zé Roberto 78']
+Internacional 	0-2  Corinthians
+ [Guerrero 45'+2', Edenílson 90']
+Sport		2-0  Botafogo
+ [Gilberto 58', Henrique 89']
+
+Round 37 
+[Nov 24]
+Vasco da Gama 	1-1  Flamengo
+Corinthians 	1-1  Santos
+[Nov 25]
+Botafogo 	2-3  Atlético/MG
+Figueirense 	2-4  Grêmio
+Bahia		1-1  Náutico
+Internacional 	0-2  Portuguesa
+Palmeiras 	1-2  Atlético/GO
+Cruzeiro 	2-1  Coritiba
+Ponte Preta 	0-0  São Paulo
+Sport		1-1  Fluminense
+
+Round 38 
+[Dec 1]
+Santos		3-1  Palmeiras
+Flamengo 	2-2  Botafogo
+[Dec 2]
+Grêmio		0-0  Internacional
+Coritiba 	3-0  Figueirense
+Atlético/GO 	0-1  Bahia
+Portuguesa 	0-0  Ponte Preta
+São Paulo 	3-1  Corinthians
+Náutico 	1-0  Sport
+Atlético/MG 	3-2  Cruzeiro
+Fluminense 	1-2  Vasco da Gama
+

@@ -1,0 +1,13 @@
+#########################
+# all rsssf fixtures
+
+
+br:
+- rsssf!/br-brazil/2012
+
+en:
+- rsssf!/en-england/2012_13
+
+es:
+- rsssf!/es-espana/2012_13
+
