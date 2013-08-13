@@ -2,6 +2,13 @@
 # Primera División 2013/13
 #
 # Original Copy @ www.rsssf.com/tabless/span2013.html
+#
+# Prepared and maintained by Karel Stokkermans the Rec.Sport.Soccer Statistics Foundation
+#
+# Author: Karel Stokkermans 
+# Last updated: 7 Jun 2013
+#
+# (C) Copyright Karel Stokkermans and RSSSF 2013
 
 
 # Final Table:

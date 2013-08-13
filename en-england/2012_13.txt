@@ -2,7 +2,13 @@
 # English Premier League 2013/13
 #
 # Original Copy @ www.rsssf.com/tablese/eng2013.html
-
+#
+# Prepared and maintained by Karel Stokkermans for the Rec.Sport.Soccer Statistics Foundation
+#
+# Author: Karel Stokkermans 
+# Last updated: 30 May 2013
+#
+# (C) Copyright Karel Stokkermans and RSSSF 2013
 
 # Final Table:
 # 

@@ -2,6 +2,13 @@
 # Brazil Série A 2012
 #
 # Original Copy @ www.rsssf.com/tablesb/braz2012.html
+#
+# Prepared and maintained by Rec.Sport.Soccer Statistics Foundation and RSSSF Brazil
+#
+# Author: RSSSF Brazil 
+# Last updated: 7 Jun 2013
+#
+# (C) Copyright RSSSF and RSSSF Brazil 2012/13 
 
 
 # Participants
