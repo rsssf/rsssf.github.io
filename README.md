@@ -6,7 +6,7 @@ from the the Rec.Sport.Soccer Statistics Foundation (RSSF)
 into your SQL database of choice (sqlite, postgres, mysql, etc.).
 
 
-What is the Rec.Sport.Soccer Statistics Foundation (RSSSF)?
+## What is the Rec.Sport.Soccer Statistics Foundation (RSSSF)?
 
 The RSSSF collects and offers football (soccer) league tables
 from all over the world online in plain text.
@@ -38,14 +38,14 @@ Coritiba        2-1 Atlético/MG
  [Deivid 53', Arthur 90'+1'; Diego Tardelli 51']
 ~~~
 
-[Find out more »](http://www.rsssf.com)
+[Find out more about the Rec.Sport.Soccer Statistics Foundation (RSSSF) »](http://www.rsssf.com)
 
 
 ## How to use
 
 As an example let's load the Campeonato Brasileiro Série A
 ([`br-brazil/2012.txt`](https://github.com/geraldb/sport.db.rsssf/blob/master/br-brazil/2012.txt),
-[`2013.txt`](https://github.com/geraldb/sport.db.rsssf/blob/master/br-brazil/2013.txt)).
+[`br-brazil/2013.txt`](https://github.com/geraldb/sport.db.rsssf/blob/master/br-brazil/2013.txt)).
 
 
 ### Setup the database
@@ -81,7 +81,7 @@ Note: Before loading RSSSF archive data you will need to add a configuration fil
 listing all football clubs / teams included in the league.
 See the Campeonato Brasileiro Série A
 ([`br-brazil/2012.yml`](https://github.com/geraldb/sport.db.rsssf/blob/master/br-brazil/2012.yml),
-[`2013.yml`](https://github.com/geraldb/sport.db.rsssf/blob/master/br-brazil/2013.yml))
+[`br-brazil/2013.yml`](https://github.com/geraldb/sport.db.rsssf/blob/master/br-brazil/2013.yml))
 as an example.
 
 
