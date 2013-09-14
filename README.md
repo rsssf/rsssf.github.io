@@ -1,4 +1,4 @@
-# sport.db.rsssf
+# football.db.rsssf
 
 The [`sportdb` command line tool](https://github.com/geraldb/sport.db.ruby) lets you
 load archive data
@@ -67,11 +67,11 @@ Step 3: Let's build the `football.db`
 
 Step 1: Get a copy of the RSSSF data
 
-    $ git clone git://github.com/geraldb/sport.db.rsssf
+    $ git clone git://github.com/geraldb/football.db.rsssf.git
 
 Step 2: Let's load the Campeonato Brasileiro Série A
 
-    $ sportdb update br --include ./sport.db.rsssf
+    $ sportdb update br --include ./football.db.rsssf
 
 
 That's it.
@@ -80,8 +80,8 @@ That's it.
 Note: Before loading RSSSF archive data you will need to add a configuration file
 listing all football clubs / teams included in the league.
 See the Campeonato Brasileiro Série A
-([`br-brazil/2012.yml`](https://github.com/geraldb/sport.db.rsssf/blob/master/br-brazil/2012.yml),
-[`br-brazil/2013.yml`](https://github.com/geraldb/sport.db.rsssf/blob/master/br-brazil/2013.yml))
+([`br-brazil/2012.yml`](https://github.com/geraldb/football.db.rsssf/blob/master/br-brazil/2012.yml),
+[`br-brazil/2013.yml`](https://github.com/geraldb/football.db.rsssf/blob/master/br-brazil/2013.yml))
 as an example.
 
 
