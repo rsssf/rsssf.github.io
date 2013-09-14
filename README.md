@@ -44,8 +44,8 @@ Coritiba        2-1 Atlético/MG
 ## How to use
 
 As an example let's load the Campeonato Brasileiro Série A
-([`br-brazil/2012.txt`](https://github.com/geraldb/sport.db.rsssf/blob/master/br-brazil/2012.txt),
-[`br-brazil/2013.txt`](https://github.com/geraldb/sport.db.rsssf/blob/master/br-brazil/2013.txt)).
+([`br-brazil/2012.txt`](https://github.com/geraldb/football.db.rsssf/blob/master/br-brazil/2012.txt),
+[`br-brazil/2013.txt`](https://github.com/geraldb/football.db.rsssf/blob/master/br-brazil/2013.txt)).
 
 
 ### Setup the database
