@@ -52,7 +52,7 @@ As an example let's load the Campeonato Brasileiro Série A
 
 Step 1: Get a copy of the `world.db` fixtures
 
-    $ git clone git://github.com/geraldb/world.db.git
+    $ git clone git://github.com/openmundi/world.db.git
 
 Step 2: Get a copy of the `br-brazil` fixtures
 
