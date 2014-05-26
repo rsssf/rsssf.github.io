@@ -3,7 +3,7 @@
 The [`sportdb` command line tool](https://github.com/geraldb/sport.db.ruby) lets you
 load archive data
 from the the Rec.Sport.Soccer Statistics Foundation (RSSF)
-into your SQL database of choice (sqlite, postgres, mysql, etc.).
+into your SQL database of choice (SQLite, PostgreSQL, etc.).
 
 
 ## What is the Rec.Sport.Soccer Statistics Foundation (RSSSF)?
@@ -44,8 +44,8 @@ Coritiba        2-1 Atlético/MG
 ## How to use
 
 As an example let's load the Campeonato Brasileiro Série A
-([`br-brazil/2012.txt`](https://github.com/geraldb/football.db.rsssf/blob/master/br-brazil/2012.txt),
-[`br-brazil/2013.txt`](https://github.com/geraldb/football.db.rsssf/blob/master/br-brazil/2013.txt)).
+([`br-brazil/2012.txt`](https://github.com/rsssf/football.db.rsssf/blob/master/br-brazil/2012.txt),
+[`br-brazil/2013.txt`](https://github.com/rsssf/football.db.rsssf/blob/master/br-brazil/2013.txt)).
 
 
 ### Setup the database
@@ -60,14 +60,14 @@ Step 2: Get a copy of the `br-brazil` fixtures
 
 Step 3: Let's build the `football.db`
 
-    $ sportdb setup --include ./br-brazil --worldinclude ./world.db
+    $ sportdb setup teams --include ./br-brazil --worldinclude ./world.db
 
 
 ### Load the RSSSF archive data
 
 Step 1: Get a copy of the RSSSF data
 
-    $ git clone git://github.com/geraldb/football.db.rsssf.git
+    $ git clone git://github.com/rsssf/football.db.rsssf.git
 
 Step 2: Let's load the Campeonato Brasileiro Série A
 
@@ -80,8 +80,8 @@ That's it.
 Note: Before loading RSSSF archive data you will need to add a configuration file
 listing all football clubs / teams included in the league.
 See the Campeonato Brasileiro Série A
-([`br-brazil/2012.yml`](https://github.com/geraldb/football.db.rsssf/blob/master/br-brazil/2012.yml),
-[`br-brazil/2013.yml`](https://github.com/geraldb/football.db.rsssf/blob/master/br-brazil/2013.yml))
+([`br-brazil/2012.yml`](https://github.com/rsssf/football.db.rsssf/blob/master/br-brazil/2012.yml),
+[`br-brazil/2013.yml`](https://github.com/rsssf/football.db.rsssf/blob/master/br-brazil/2013.yml))
 as an example.
 
 
