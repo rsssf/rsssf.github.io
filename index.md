@@ -57,6 +57,7 @@ Coritiba        2-1 Atlético/MG
 [Find out more about the Rec.Sport.Soccer Statistics Foundation (RSSSF) »](http://www.rsssf.com)
 
 
+
 ## How to use  {#usage}
 
 As an example let's load the Campeonato Brasileiro Série A
