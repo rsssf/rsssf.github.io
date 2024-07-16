@@ -10,26 +10,25 @@ Contents:
 
 * [What's the Rec.Sport.Soccer Statistics Foundation (RSSSF)?](#rsssf)
 * [How to use](#usage)
-    * [Setup the database](#setup)
-    * [Load the RSSSF archive data](#load)
+    * [What's the (semi-)structured text?](#structured)
+    * [Read in the RSSSF (semi-)structured text archive data](#read)
 * [Questions? Comments?](#questions)
 </div>
 
 
-The [`sportdb` command line tool](https://github.com/geraldb/sport.db.ruby) lets you
-load archive data
+The [`sportdb` command line tool](https://github.com/sport.db) lets you
+read in  league & cup match results & schedules in (semi-) structured text
 from the the Rec.Sport.Soccer Statistics Foundation (RSSF)
 into your SQL database of choice (SQLite, PostgreSQL, etc.).
 
 
+
 ## What's the Rec.Sport.Soccer Statistics Foundation (RSSSF)?    {#rsssf}
 
-The RSSSF collects and offers football (soccer) league tables
-from all over the world online in plain text.
+The RSSSF collects and offers football (soccer) league & cup match results & schedules
+from all over the world online in a (semi-)structured text format. Example:
 
-Example:
-
-~~~
+```
 Round 1
 [May 25]
 Vasco da Gama   1-0 Portuguesa
@@ -52,54 +51,87 @@ Cruzeiro        5-0 Goiás
  [Diego Souza 5', Bruno Rodrigo 30', Nílton 40',79', Borges 42']
 Coritiba        2-1 Atlético/MG
  [Deivid 53', Arthur 90'+1'; Diego Tardelli 51']
-~~~
+```
 
 [Find out more about the Rec.Sport.Soccer Statistics Foundation (RSSSF) »](http://www.rsssf.com)
 
 
 
+
 ## How to use  {#usage}
 
-As an example let's load the Campeonato Brasileiro Série A
+As an example let's read in the Campeonato Brasileiro Série A
 ([`br-brazil/2012`](https://github.com/rsssf/br-brazil/blob/master/2012),
 [`br-brazil/2013`](https://github.com/rsssf/br-brazil/blob/master/2013)).
 
 
-### Setup the database   {#setup}
+### What's the (semi-) structured text?    {#structured}
 
-Step 1: Get a copy of the `world.db` fixtures
+If the text follows the RSSSF (structured text) format conventions than you can use
+the (sportdb) RSSSF parser (& tokenizer) to break-up the text into its (semantic) parts - resulting in:
 
-    $ git clone git://github.com/openmundi/world.db.git
+``` ruby
+[[:round, "Round 1"]],
+[[:date, "May 25"]],
+[[:team, "Vasco da Gama"], [:score, "1-0"], [:team, "Portuguesa"]],
+  [[:player, "Carlos Tenório"], [:minute, "47'"]],
+[[:team, "Vitória"], [:score, "2-2"], [:team, "Internacional"]],
+  [[:player, "Maxi Biancucchi"],[:minute, "2'"],[:","],
+   [:player, "Gabriel Paulista"],[:minute, "11'"],[:";"],
+   [:player, "Diego Forlán"],[:minute, "29'"],[:","],
+   [:player, "Fred"],[:minute, "63'"]],
+[[:team, "Corinthians"], [:score, "1-1"], [:team, "Botafogo"]],
+  [[:player, "Paulinho"], [:minute, "73'"], [:";"], 
+   [:player, "Rafael Marques"], [:minute, "24'"]],
+[[:date, "May 26"]],
+[[:team, "Grêmio"], [:score, "2-0"], [:team, "Náutico"], [:note, "played in Caxias do Sul-RS"]],
+  [[:player, "Zé Roberto"], [:minute, "15'"], [:","], 
+   [:player, "Elano"], [:minute, "70'"]],
+[[:team, "Ponte Preta"], [:score, "0-2"], [:team, "São Paulo"]],
+  [[:player, "Lúcio"], [:minute, "9'"], [:","], 
+   [:player, "Jádson"], [:minute, "44'"], [:pen, "p"]],
+[[:team, "Criciúma"], [:score, "3-1"], [:team, "Bahia"]],
+  [[:player, "Matheus Ferraz"],[:minute, "45'+1'"],[:","],
+   [:player, "Lins"],[:minute, "46'"],[:","],
+   [:player, "João Vítor"],[:minute, "82'"],[:";"],
+   [:player, "Diones"],[:minute, "72'"]],
+[[:team, "Santos"], [:score, "0-0"], [:team, "Flamengo"], [:note, "played in Brasília-DF"]],
+[[:team, "Fluminense"], [:score, "2-1"], [:team, "Atlético/PR"], [:note, "played in Macaé-RJ"]],
+  [[:player, "Rafael Sóbis"],[:minute, "15'"],[:pen, "p"],[:","],
+   [:player, "Samuel"],[:minute, "53'"],[:";"],
+   [:player, "Manoel"],[:minute, "28'"]],
+[[:team, "Cruzeiro"], [:score, "5-0"], [:team, "Goiás"]],
+  [[:player, "Diego Souza"],[:minute, "5'"],[:","],
+   [:player, "Bruno Rodrigo"],[:minute, "30'"],[:","],
+   [:player, "Nílton"],[:minute, "40'"],[:","],[:minute, "79'"],[:","],
+   [:player, "Borges"],[:minute, "42'"]],
+[[:team, "Coritiba"], [:score, "2-1"], [:team, "Atlético/MG"]],
+  [[:player, "Deivid"],[:minute, "53'"],[:","],
+   [:player, "Arthur"],[:minute, "90'+1'"],[:";"],
+   [:player, "Diego Tardelli"],[:minute, "51'"]]] 
+```
 
-Step 2: Get a copy of the `br-brazil` fixtures
-
-    $ git clone git://github.com/openfootball/br-brazil.git
-
-Step 3: Let's build the `football.db`
-
-    $ sportdb setup teams --include ./openfootball/br-brazil --worldinclude ./openmundi/world.db
-
-
-### Load the RSSSF archive data   {#load}
+### Reald in the RSSSF (semi-)structured text archive data   {#read}
 
 Step 1: Get a copy of the RSSSF data
 
-    $ git clone git://github.com/rsssf/br-brazil.git
+    $ git clone git://github.com/rsssf/brazil.git
 
-Step 2: Let's load the Campeonato Brasileiro Série A
+Step 2: Let's read in the Campeonato Brasileiro Série A
 
-    $ sportdb update --include ./rsssf/br-brazil
+    $ sportdb build ./rsssf/brazil
 
 
 That's it.
 
-
+<!--
 Note: Before loading RSSSF archive data you will need to add a configuration file
 listing all football clubs / teams included in the league.
 See the Campeonato Brasileiro Série A
 ([`br-brazil/2012/seriea.yml`](https://github.com/rsssf/br-brazil/blob/master/2012/seriea.yml),
 [`br-brazil/2013/seriea.yml`](https://github.com/rsssf/br-brazil/blob/master/2013/seriea.yml))
 as an example.
+-->
 
 
 {% include questions.md %}
