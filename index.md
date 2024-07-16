@@ -64,7 +64,7 @@ Coritiba        2-1 Atlético/MG
 
 As an example let's read in the Campeonato Brasileiro Série A
 ([`brazil/2012`](https://github.com/rsssf/brazil/blob/master/2012),
-[`brazil/2013`](https://github.com/rsssf/brazil/blob/master/2013)), et al.
+[`brazil/2013`](https://github.com/rsssf/brazil/blob/master/2013), et al).
 
 
 Step 1: Get a copy of the RSSSF data
