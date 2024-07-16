@@ -10,8 +10,8 @@ Contents:
 
 * [What's the Rec.Sport.Soccer Statistics Foundation (RSSSF)?](#rsssf)
 * [How to use](#usage)
-    * [What's the (semi-)structured text?](#structured)
-    * [Read in the RSSSF (semi-)structured text archive data](#read)
+    * [What's (semi-)structured text?](#structured)
+    * [Read in the RSSSF archive data](#read)
 * [Questions? Comments?](#questions)
 </div>
 
@@ -60,15 +60,11 @@ Coritiba        2-1 Atlético/MG
 
 ## How to use  {#usage}
 
-As an example let's read in the Campeonato Brasileiro Série A
-([`brazil/2012`](https://github.com/rsssf/brazil/blob/master/2012),
-[`brazil/2013`](https://github.com/rsssf/brazil/blob/master/2013)).
 
-
-### What's the (semi-) structured text?    {#structured}
+### What's (semi-) structured text?    {#structured}
 
 If the text follows the RSSSF (structured text) format conventions than you can use
-the (sportdb) RSSSF parser (& tokenizer) to break-up the text into its (semantic) parts - resulting in:
+the (sportdb) RSSSF parser (& tokenizer) to break-up "automagically" the text into its (semantic) parts - resulting in:
 
 ``` ruby
 [[:round, "Round 1"]],
@@ -111,7 +107,13 @@ the (sportdb) RSSSF parser (& tokenizer) to break-up the text into its (semantic
    [:player, "Diego Tardelli"],[:minute, "51'"]]] 
 ```
 
-### Reald in the RSSSF (semi-)structured text archive data   {#read}
+
+### Read in the RSSSF (semi-)structured text archive data   {#read}
+
+As an example let's read in the Campeonato Brasileiro Série A
+([`brazil/2012`](https://github.com/rsssf/brazil/blob/master/2012),
+[`brazil/2013`](https://github.com/rsssf/brazil/blob/master/2013)), et al.
+
 
 Step 1: Get a copy of the RSSSF data
 
