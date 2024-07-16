@@ -10,8 +10,8 @@ Contents:
 
 * [What's the Rec.Sport.Soccer Statistics Foundation (RSSSF)?](#rsssf)
 * [How to use](#usage)
-    * [What's (semi-)structured text?](#structured)
     * [Read in the RSSSF archive data](#read)
+* [Background - What's (semi-)structured text?](#structured) 
 * [Questions? Comments?](#questions)
 </div>
 
@@ -60,11 +60,41 @@ Coritiba        2-1 Atlético/MG
 
 ## How to use  {#usage}
 
+### Read in the RSSSF (semi-)structured text archive data   {#read}
 
-### What's (semi-) structured text?    {#structured}
+As an example let's read in the Campeonato Brasileiro Série A
+([`brazil/2012`](https://github.com/rsssf/brazil/blob/master/2012),
+[`brazil/2013`](https://github.com/rsssf/brazil/blob/master/2013)), et al.
 
-If the text follows the RSSSF (structured text) format conventions than you can use
-the (sportdb) RSSSF parser (& tokenizer) to break-up "automagically" the text into its (semantic) parts - resulting in:
+
+Step 1: Get a copy of the RSSSF data
+
+    $ git clone git://github.com/rsssf/brazil.git
+
+Step 2: Let's read in the Campeonato Brasileiro Série A
+
+    $ sportdb build ./rsssf/brazil
+
+
+That's it.
+
+<!--
+Note: Before loading RSSSF archive data you will need to add a configuration file
+listing all football clubs / teams included in the league.
+See the Campeonato Brasileiro Série A
+([`brazil/2012/seriea.yml`](https://github.com/rsssf/brazil/blob/master/2012/seriea.yml),
+[`brazil/2013/seriea.yml`](https://github.com/rsssf/brazil/blob/master/2013/seriea.yml))
+as an example.
+-->
+
+
+
+## Background - What's (semi-) structured text?    {#structured}
+
+Q: How does the "magic" work? 
+
+A: If the text follows the RSSSF (structured text) format conventions than you can use
+the (sportdb) RSSSF parser (& tokenizer) to "automagically" break-up the text into its (semantic) parts - resulting in:
 
 ``` ruby
 [[:round, "Round 1"]],
@@ -107,33 +137,6 @@ the (sportdb) RSSSF parser (& tokenizer) to break-up "automagically" the text in
    [:player, "Diego Tardelli"],[:minute, "51'"]]] 
 ```
 
-
-### Read in the RSSSF (semi-)structured text archive data   {#read}
-
-As an example let's read in the Campeonato Brasileiro Série A
-([`brazil/2012`](https://github.com/rsssf/brazil/blob/master/2012),
-[`brazil/2013`](https://github.com/rsssf/brazil/blob/master/2013)), et al.
-
-
-Step 1: Get a copy of the RSSSF data
-
-    $ git clone git://github.com/rsssf/brazil.git
-
-Step 2: Let's read in the Campeonato Brasileiro Série A
-
-    $ sportdb build ./rsssf/brazil
-
-
-That's it.
-
-<!--
-Note: Before loading RSSSF archive data you will need to add a configuration file
-listing all football clubs / teams included in the league.
-See the Campeonato Brasileiro Série A
-([`brazil/2012/seriea.yml`](https://github.com/rsssf/brazil/blob/master/2012/seriea.yml),
-[`brazil/2013/seriea.yml`](https://github.com/rsssf/brazil/blob/master/2013/seriea.yml))
-as an example.
--->
 
 
 {% include questions.md %}
