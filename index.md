@@ -16,7 +16,7 @@ Contents:
 </div>
 
 
-The [`sportdb` command line tool](https://github.com/sport.db) lets you
+The [`sportdb` command line tool](https://github.com/sportdb) lets you
 read in  league & cup match results & schedules in (semi-) structured text
 from the the Rec.Sport.Soccer Statistics Foundation (RSSF)
 into your SQL database of choice (SQLite, PostgreSQL, etc.).
@@ -61,8 +61,8 @@ Coritiba        2-1 Atlético/MG
 ## How to use  {#usage}
 
 As an example let's read in the Campeonato Brasileiro Série A
-([`br-brazil/2012`](https://github.com/rsssf/br-brazil/blob/master/2012),
-[`br-brazil/2013`](https://github.com/rsssf/br-brazil/blob/master/2013)).
+([`brazil/2012`](https://github.com/rsssf/brazil/blob/master/2012),
+[`brazil/2013`](https://github.com/rsssf/brazil/blob/master/2013)).
 
 
 ### What's the (semi-) structured text?    {#structured}
@@ -128,8 +128,8 @@ That's it.
 Note: Before loading RSSSF archive data you will need to add a configuration file
 listing all football clubs / teams included in the league.
 See the Campeonato Brasileiro Série A
-([`br-brazil/2012/seriea.yml`](https://github.com/rsssf/br-brazil/blob/master/2012/seriea.yml),
-[`br-brazil/2013/seriea.yml`](https://github.com/rsssf/br-brazil/blob/master/2013/seriea.yml))
+([`brazil/2012/seriea.yml`](https://github.com/rsssf/brazil/blob/master/2012/seriea.yml),
+[`brazil/2013/seriea.yml`](https://github.com/rsssf/brazil/blob/master/2013/seriea.yml))
 as an example.
 -->
 
