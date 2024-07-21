@@ -51,3 +51,26 @@ in line: [Ademilson 49", Willian José 90'+3']
    change 49"  to 49'
 ```
 
+
+### Spain
+
+Primera División 2010/11
+
+```
+in line: [Walter Pandiani 72; Sergio González79]  
+                                     ^^^^^^^^^^ 
+   change González79  to González 79'
+
+in line: [Aritz Aduriz10, Vicente Rodríguez 90+; Igor Gabilondo 90+]
+                ^^^^^^^^
+   change Aduriz10  to Aduriz 10'
+   
+in line: ["Manu" Manuel del Moral Fernández70pen; Lionel Messi 22,
+                                  ^^^^^^^^^^^^^^
+   change Fernández70pen  to Fernández 70pen
+
+in line: [Diego Ifran 71, Xabi Prieto 82pen; Thiago Alcántara 29
+                                                                ^^^
+   add missing closing ]
+```
+
