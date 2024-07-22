@@ -53,6 +53,36 @@ Coritiba        2-1 Atlético/MG
  [Deivid 53', Arthur 90'+1'; Diego Tardelli 51']
 ```
 
+or using an alternate format style:
+
+```
+Round 1
+[May 25]
+Vasco da Gama   1-0 Portuguesa
+ (Carlos Tenório 47)
+Vitória         2-2 Internacional
+ (Maxi Biancucchi 2, Gabriel Paulista 11 - Diego Forlán 29, Fred 63)
+Corinthians     1-1 Botafogo
+ (Paulinho 73 - Rafael Marques 24)
+[May 26]
+Grêmio          2-0 Náutico         [played in Caxias do Sul-RS]
+ (Zé Roberto 15, Elano 70)
+Ponte Preta     0-2 São Paulo
+ (Lúcio 9, Jádson 44 p)
+Criciúma        3-1 Bahia
+ (Matheus Ferraz 45+1, Lins 46, João Vítor 82 - Diones 72)
+Santos          0-0 Flamengo        [played in Brasília-DF]
+Fluminense      2-1 Atlético/PR     [played in Macaé-RJ]
+ (Rafael Sóbis 15 p, Samuel 53 - Manoel 28)
+Cruzeiro        5-0 Goiás
+ (Diego Souza 5, Bruno Rodrigo 30, Nílton 40,79, Borges 42)
+Coritiba        2-1 Atlético/MG
+ (Deivid 53, Arthur 90+1 - Diego Tardelli 51)
+```
+
+Format Notes -  Enclose goals in `[]` or `()`.  The minute marker `'` is optional.  The separator for goals is `;` or `-`.
+
+
 [Find out more about the Rec.Sport.Soccer Statistics Foundation (RSSSF) »](http://www.rsssf.com)
 
 
