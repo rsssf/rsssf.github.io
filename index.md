@@ -80,7 +80,29 @@ Coritiba        2-1 Atlético/MG
  (Deivid 53, Arthur 90+1 - Diego Tardelli 51)
 ```
 
-Format Notes -  Enclose goals in `[]` or `()`.  The minute marker `'` is optional.  The separator for goals is `;` or `-`.
+Format Notes -  The minute marker `'` is optional.
+Enclose goals in `[]` or `()`.
+The separator for goals of team home/away is `;` or `-`.
+
+
+or the max goal version style:
+
+```
+Round 1
+[May 25]
+Vasco da Gama   1-0 Portuguesa
+ [1-0 Carlos Tenório 47]
+Vitória         2-2 Internacional
+ [1-0 Maxi Biancucchi 2, 2-0 Gabriel Paulista 11, 2-1 Diego Forlán 29, 2-2 Fred 63]
+Corinthians     1-1 Botafogo
+ [1-0 Rafael Marques 24, 1-1 Paulinho 73]
+[May 26]
+Grêmio          2-0 Náutico         [played in Caxias do Sul-RS]
+ [1-0 Zé Roberto 15, 2-0 Elano 70]
+Ponte Preta     0-2 São Paulo
+ [0-1 Lúcio 9, 0-2 Jádson 44 p]
+...
+```
 
 
 [Find out more about the Rec.Sport.Soccer Statistics Foundation (RSSSF) »](http://www.rsssf.com)
