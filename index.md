@@ -8,24 +8,27 @@ title: Welcome to football.db.rsssf
 <div class="toc" markdown="1">
 Contents:
 
+* [What's News (in 2026)?](#news)
 * [What's the Rec.Sport.Soccer Statistics Foundation (RSSSF)?](#rsssf)
-* [How to use](#usage)
-    * [Read in the RSSSF archive data](#read)
 * [Background - What's (semi-)structured text?](#structured) 
 * [Questions? Comments?](#questions)
 </div>
 
+<!--
+* [How to use](#usage)
+    * [Read in the RSSSF archive data](#read)
+-->
 
-## What's News (in 2026)?
+## What's News (in 2026)?   {#news}
 
 Note - there's no more plan / efforts to turn or "distill the conventions" 
 from the Rec.Sport.Soccer Statistics Foundation (RSSF) match schedules & results into a structured text format with a context-free grammar (and lexer & parser).  Sorry, there are just too many variants, quirks and styles.
 
 The good news - in most cases, yes, you can convert the RSSSF match schedules & results 
 using its own "ad-hoc" formats (mostly depending on the original author) into the Football.TXT format,
-that is, a structured text format with a context-free grammar (and lexer & parser) built on purpose from scratch / zero.
-
-For more, see the [Football.TXT format, level 1 & 2 specs »](https://openfootball.github.io/spec/)
+that is, a structured text format with a context-free grammar (and lexer & parser) built on purpose from scratch / zero - 
+either "by hand" or with your own little search & replace scripts or why not 
+with the help of latest and greatest large language models (LLMs)?
 
 Tip:  For samples of RSSSF pages (incl. the Premier League, FA Cup, Club World Cup, European Championship, and more) converted to the structured Football.TXT format 
 (for easy parsing and exporting to JSON, CSV, SQL and friends),
@@ -49,7 +52,7 @@ into your SQL database of choice (SQLite, PostgreSQL, etc.).
 ## What's the Rec.Sport.Soccer Statistics Foundation (RSSSF)?    {#rsssf}
 
 The RSSSF collects and offers football (soccer) league & cup match results & schedules
-from all over the world online in a (semi-)structured text format. Example:
+from all over the world online in a (semi-)structured text format. Example (RSSSF before):
 
 ```
 Round 1
@@ -76,7 +79,7 @@ Coritiba        2-1 Atlético/MG
  [Deivid 53', Arthur 90'+1'; Diego Tardelli 51']
 ```
 
-or using an alternate format style:
+or using an alternate format style (RSSSF before):
 
 ```
 Round 1
@@ -103,12 +106,67 @@ Coritiba        2-1 Atlético/MG
  (Deivid 53, Arthur 90+1 - Diego Tardelli 51)
 ```
 
-Format Notes -  The minute marker `'` is optional.
-Enclose goals in `[]` or `()`.
-The separator for goals of team home/away is `;` or `-`.
 
 
-or the max goal version style:
+
+
+Yes, you can!  Let's convert the sample to the Football.TXT format:
+
+```
+▪ Round 1
+May 25
+  Vasco da Gama   1-0 Portuguesa
+    (Carlos Tenório 47')
+  Vitória         2-2 Internacional
+    (Maxi Biancucchi 2', Gabriel Paulista 11'; Diego Forlán 29', Fred 63')
+  Corinthians     1-1 Botafogo
+    (Paulinho 73'; Rafael Marques 24')
+May 26
+  Grêmio          2-0 Náutico         [played in Brasília-DF]
+    (Zé Roberto 15', Elano 70')
+  Ponte Preta     0-2 São Paulo
+    (Lúcio 9', Jádson 44'p)
+  Criciúma        3-1 Bahia
+    (Matheus Ferraz 45'+1', Lins 46', João Vítor 82'; Diones 72')
+  Santos          0-0 Flamengo        [played in Brasília-DF]
+  Fluminense      2-1 Atlético/PR     [played in Macaé-RJ]
+    (Rafael Sóbis 15'p, Samuel 53'; Manoel 28')
+  Cruzeiro        5-0 Goiás
+    (Diego Souza 5', Bruno Rodrigo 30', Nílton 40',79', Borges 42')
+  Coritiba        2-1 Atlético/MG
+    (Deivid 53', Arthur 90'+1'; Diego Tardelli 51')
+```
+
+What's changed? <br>
+-  Start round lines with a round marker `▪`.
+-  Do NOT enclose date headers / lines with square brackets `[]`. 
+-  Enclose goal lines with parentheses, that is, `()` instead of square brackets `[]`
+
+
+Football.TXT Format Notes -  Yes, the minute marker `'` is optional
+and the separator for goals of team home/away is `;` or `-`.
+Let's try:
+
+```
+▪ Round 1
+May 25
+  Vasco da Gama   1-0 Portuguesa     (Carlos Tenório 47)
+  Vitória         2-2 Internacional  (Maxi Biancucchi 2, Gabriel Paulista 11 - Diego Forlán 29, Fred 63)
+  Corinthians     1-1 Botafogo       (Paulinho 73 - Rafael Marques 24)
+May 26
+  Grêmio          2-0 Náutico       [played in Brasília-DF]
+                         (Zé Roberto 15, Elano 70)
+  Ponte Preta     0-2 São Paulo      (Lúcio 9, Jádson 44p)
+  Criciúma        3-1 Bahia          (Matheus Ferraz 45+1, Lins 46, João Vítor 82 - Diones 72)
+  Santos          0-0 Flamengo      [played in Brasília-DF]
+  Fluminense      2-1 Atlético/PR   [played in Macaé-RJ]
+                         (Rafael Sóbis 15p, Samuel 53 - Manoel 28)
+  Cruzeiro        5-0 Goiás          (Diego Souza 5, Bruno Rodrigo 30, Nílton 40,79, Borges 42)
+  Coritiba        2-1 Atlético/MG    (Deivid 53, Arthur 90+1 - Diego Tardelli 51)
+```
+
+
+or the max goal version style (RSSSF before):
 
 ```
 Round 1
@@ -128,10 +186,14 @@ Ponte Preta     0-2 São Paulo
 ```
 
 
-[Find out more about the Rec.Sport.Soccer Statistics Foundation (RSSSF) »](http://www.rsssf.com)
 
 
 
+
+[Find out more about the Rec.Sport.Soccer Statistics Foundation (RSSSF) »](https://www.rsssf.com)
+
+
+<!--
 
 ## How to use  {#usage}
 
@@ -153,6 +215,8 @@ Step 2: Let's read in the Campeonato Brasileiro Série A
 
 That's it.
 
+-->
+
 <!--
 Note: Before loading RSSSF archive data you will need to add a configuration file
 listing all football clubs / teams included in the league.
@@ -168,8 +232,8 @@ as an example.
 
 Q: How does the "magic" work? 
 
-A: If the text follows the RSSSF (structured text) format conventions than you can use
-the (sportdb) RSSSF parser (& tokenizer) to "automagically" break-up the text into its (semantic) parts - resulting in:
+A: If the text follows the Football.TXT (structured text) format conventions than you can use
+the Football.TXT lexer & parser machinery to "automagically" break-up the text into its (semantic) parts, that is, tokens (that build-up the parse tree and more) resulting in:
 
 ``` ruby
 [[:round, "Round 1"]],
@@ -212,6 +276,7 @@ the (sportdb) RSSSF parser (& tokenizer) to "automagically" break-up the text in
    [:player, "Diego Tardelli"],[:minute, "51'"]]] 
 ```
 
+For more, see the [Football.TXT format, level 1 & 2 specs »](https://openfootball.github.io/spec/)
 
 
 {% include questions.md %}
