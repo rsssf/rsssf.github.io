@@ -21,13 +21,13 @@ Contents:
 Note - there's no more plan / efforts to turn or "distill the conventions" 
 from the Rec.Sport.Soccer Statistics Foundation (RSSF) match schedules & results into a structured text format with a context-free grammar (and lexer & parser).  Sorry, there are just too many variants, quirks and styles.
 
-The good news - in most cases, yes, you can convert the RSSF match schedules & results 
-from its own "ad-hoc" format into the Football.TXT format,
+The good news - in most cases, yes, you can convert the RSSSF match schedules & results 
+using its own "ad-hoc" formats (mostly depending on the original author) into the Football.TXT format,
 that is, a structured text format with a context-free grammar (and lexer & parser) built on purpose from scratch / zero.
 
 For more, see the [Football.TXT format, level 1 & 2 specs »](https://openfootball.github.io/spec/)
 
-Tip:  For samples of RSSSF pages converted to the structured Football.TXT format 
+Tip:  For samples of RSSSF pages (incl. the Premier League, FA Cup, Club World Cup, European Championship, and more) converted to the structured Football.TXT format 
 (for easy parsing and exporting to JSON, CSV, SQL and friends),
 see the `/rsssf` folder in the 
 [`/euro`](https://github.com/openfootball/euro/tree/master/rsssf), 
