@@ -10,7 +10,8 @@ Contents:
 
 * [What's News (in 2026)?](#news)
 * [What's the Rec.Sport.Soccer Statistics Foundation (RSSSF)?](#rsssf)
-* [Background - What's (semi-)structured text?](#structured) 
+* [How to convert to the Football.TXT format](#convert)
+* [Background - What's structured text?](#structured) 
 * [Questions? Comments?](#questions)
 </div>
 
@@ -34,7 +35,7 @@ Tip:  For samples of RSSSF pages (incl. the Premier League, FA Cup, Club World C
 (for easy parsing and exporting to JSON, CSV, SQL and friends),
 see the `/rsssf` folder in the 
 [`/euro`](https://github.com/openfootball/euro/tree/master/rsssf), 
-[`/england`](https://github.com/openfootball/england/tree/master/rsssf) repos and others.
+[`/england`](https://github.com/openfootball/england/tree/master/rsssf) (and others) repos.
 
 
 
@@ -106,9 +107,29 @@ Coritiba        2-1 Atlético/MG
  (Deivid 53, Arthur 90+1 - Diego Tardelli 51)
 ```
 
+or the max goal version style (RSSSF before):
+
+```
+Round 1
+[May 25]
+Vasco da Gama   1-0 Portuguesa
+ [1-0 Carlos Tenório 47]
+Vitória         2-2 Internacional
+ [1-0 Maxi Biancucchi 2, 2-0 Gabriel Paulista 11, 2-1 Diego Forlán 29, 2-2 Fred 63]
+Corinthians     1-1 Botafogo
+ [1-0 Rafael Marques 24, 1-1 Paulinho 73]
+[May 26]
+Grêmio          2-0 Náutico         [played in Caxias do Sul-RS]
+ [1-0 Zé Roberto 15, 2-0 Elano 70]
+Ponte Preta     0-2 São Paulo
+ [0-1 Lúcio 9, 0-2 Jádson 44 p]
+...
+```
+
+[Find out more about the Rec.Sport.Soccer Statistics Foundation (RSSSF) »](https://www.rsssf.com)
 
 
-
+## How to convert to the Football.TXT format  {#convert}
 
 Yes, you can!  Let's convert the sample to the Football.TXT format:
 
@@ -140,11 +161,14 @@ May 26
 What's changed? <br>
 -  Start round lines with a round marker `▪`.
 -  Do NOT enclose date headers / lines with square brackets `[]`. 
--  Enclose goal lines with parentheses, that is, `()` instead of square brackets `[]`
+-  Enclose goal lines with parentheses, that is, `()` instead of square brackets `[]`.
 
 
-Football.TXT Format Notes -  Yes, the minute marker `'` is optional
-and the separator for goals of team home/away is `;` or `-`.
+More Football.TXT format notes:   
+- Yes, the minute marker `'` is optional and
+- the separator for goals of team home/away is `;` or `-`.
+
+
 Let's try:
 
 ```
@@ -165,32 +189,24 @@ May 26
   Coritiba        2-1 Atlético/MG    (Deivid 53, Arthur 90+1 - Diego Tardelli 51)
 ```
 
-
-or the max goal version style (RSSSF before):
+and, yes, let's convert the "max goal version style" to the Football.TXT format:
 
 ```
-Round 1
-[May 25]
-Vasco da Gama   1-0 Portuguesa
- [1-0 Carlos Tenório 47]
-Vitória         2-2 Internacional
- [1-0 Maxi Biancucchi 2, 2-0 Gabriel Paulista 11, 2-1 Diego Forlán 29, 2-2 Fred 63]
-Corinthians     1-1 Botafogo
- [1-0 Rafael Marques 24, 1-1 Paulinho 73]
-[May 26]
-Grêmio          2-0 Náutico         [played in Caxias do Sul-RS]
- [1-0 Zé Roberto 15, 2-0 Elano 70]
-Ponte Preta     0-2 São Paulo
- [0-1 Lúcio 9, 0-2 Jádson 44 p]
+▪ Round 1
+May 25
+  Vasco da Gama   1-0 Portuguesa
+    (1-0 Carlos Tenório 47)
+  Vitória         2-2 Internacional
+    (1-0 Maxi Biancucchi 2, 2-0 Gabriel Paulista 11, 2-1 Diego Forlán 29, 2-2 Fred 63)
+  Corinthians     1-1 Botafogo
+    (1-0 Rafael Marques 24, 1-1 Paulinho 73)
+May 26
+  Grêmio          2-0 Náutico         [played in Caxias do Sul-RS]
+    (1-0 Zé Roberto 15, 2-0 Elano 70)
+  Ponte Preta     0-2 São Paulo
+    (0-1 Lúcio 9, 0-2 Jádson 44 p)
 ...
 ```
-
-
-
-
-
-
-[Find out more about the Rec.Sport.Soccer Statistics Foundation (RSSSF) »](https://www.rsssf.com)
 
 
 <!--
@@ -228,7 +244,7 @@ as an example.
 
 
 
-## Background - What's (semi-) structured text?    {#structured}
+## Background - What's structured text?    {#structured}
 
 Q: How does the "magic" work? 
 
