@@ -16,10 +16,33 @@ Contents:
 </div>
 
 
+## What's News (in 2026)?
+
+Note - there's no more plan / efforts to turn or "distill the conventions" 
+from the Rec.Sport.Soccer Statistics Foundation (RSSF) match schedules & results into a structured text format with a context-free grammar (and lexer & parser).  Sorry, there are just too many variants, quirks and styles.
+
+The good news - in most cases, yes, you can convert the RSSF match schedules & results 
+from its own "ad-hoc" format into the Football.TXT format,
+that is, a structured text format with a context-free grammar (and lexer & parser) built on purpose from scratch / zero.
+
+For more, see the [Football.TXT format, level 1 & 2 specs »](https://openfootball.github.io/spec/)
+
+Tip:  For samples of RSSSF pages converted to the structured Football.TXT format 
+(for easy parsing and exporting to JSON, CSV, SQL and friends),
+see the `/rsssf` folder in the 
+[`/euro`](https://github.com/openfootball/euro/tree/master/rsssf), 
+[`/england`](https://github.com/openfootball/england/tree/master/rsssf) repos and others.
+
+
+
+<!--
+
 The [`sportdb` command line tool](https://github.com/sportdb) lets you
 read in  league & cup match results & schedules in (semi-) structured text
 from the the Rec.Sport.Soccer Statistics Foundation (RSSF)
 into your SQL database of choice (SQLite, PostgreSQL, etc.).
+
+-->
 
 
 
